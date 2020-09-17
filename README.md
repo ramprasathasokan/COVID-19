@@ -11,10 +11,10 @@ Delivers detailed data-driven insights to the stakeholders.
 
 Visualized multiple factors like mortality rate, recovery rate, number of positive cases, deaths and recoveries.
 
-## Jupyter Notebooks Link
-https://nbviewer.jupyter.org/github/ramprasathasokan/COVID-19/tree/master/
-
 ## Tech Stack
 
-Python, Jupyter, Pandas, Plotly.
+Python, Jupyter, Pandas, NumPy and Plotly.
 
+## Jupyter Notebooks Link
+
+https://nbviewer.jupyter.org/github/ramprasathasokan/COVID-19/tree/master/
